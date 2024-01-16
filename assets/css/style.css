@@ -1,0 +1,31 @@
+.about-section,
+.quotes-section {
+  background-color: #333333;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.about-color {
+    color: white;
+}
+
+.quotes-color {
+    color: white;
+}
+
+.noodles {
+    padding:20px;
+}
+
+.quote-image {
+    margin-right: 20px;
+}
+
+.blockquote {
+    padding: 20px;
+}
+
+.quote-image {
+    margin: 20px
+}
