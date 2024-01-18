@@ -2,8 +2,16 @@
 .quotes-section {
   background-color: #333333;
   width: 100%;
-  padding: 0;
+  padding: 25px;
   margin: 0;
+}
+
+.title-color {
+    color: white;
+}
+
+.navbar-color {
+    background-color: #BFC0C0;
 }
 
 .about-color {
