@@ -110,11 +110,13 @@ footer {
     width: 300px;
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
     background: #fff;
-    padding: 20px;
-    margin: 8% 70% 7%;
+    padding: 30px;
+    margin: 8% 70% 8%  ;
     text-align: center;
-    background-image: url("assets/images/sign-up-test-4.jpg");
-    background-size: cover;
-    background-position: center;
+    
 }
+
+.sign-up-image {
+    background-image: url("../images/sign-up-test-3.jpg");
+  }
 
