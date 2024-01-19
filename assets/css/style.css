@@ -108,15 +108,51 @@ footer {
 
 .sign-up-form {
     width: 300px;
-    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
-    background: #fff;
-    padding: 30px;
-    margin: 8% 70% 8%  ;
-    text-align: center;
     
+    background: transparent;
+    padding: 30px;
+    margin: 8% 8% 8% auto;
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .sign-up-form {
+        width: 90%;
+        margin: 8% auto 8%;
+    }
 }
 
 .sign-up-image {
     background-image: url("../images/sign-up-test-3.jpg");
   }
 
+ .sign-up-button {
+    margin-top: 20px;
+ }
+
+ #fname {
+    margin-top: 5px;
+    border-radius: 20px;
+    border:1px solid #985463;
+    outline:none
+ }
+
+ #lname {
+    margin-top: 15px;
+    border-radius: 20px;
+    border:1px solid #985463;
+    outline:none
+ }
+
+ #email {
+    margin-top: 15px;
+    border-radius: 20px;
+    border:1px solid #985463;
+    outline:none
+ }
+
+ .sign-up-form h2 {
+    color: #333333;
+    margin-bottom: 30px;
+    
+ }
