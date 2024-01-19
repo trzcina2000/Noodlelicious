@@ -36,8 +36,6 @@
     padding-left: 310px;;
 }
 
-
-
 .blockquote {
     padding: 20px;
 }
@@ -89,3 +87,34 @@ footer {
 .about-align {
     padding-top: 40px;
 }
+
+.navbar-brand {
+    font-weight: bolder;
+    color: #333333;
+}
+
+.navbar-brand:hover {
+    color: #985463;
+}
+
+.nav-link {
+    color: #333333;
+}
+
+.nav-link:hover {
+    font-weight: bold;
+    color: #985463;
+}
+
+.sign-up-form {
+    width: 300px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+    background: #fff;
+    padding: 20px;
+    margin: 8% 70% 7%;
+    text-align: center;
+    background-image: url("assets/images/sign-up-test-4.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
