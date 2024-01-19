@@ -45,8 +45,12 @@
 }
 
 footer {
+    bottom: 0;
+    left: 0;
+    width: 100%;
     height: 150px;
     background-color: #BFC0C0;
+    
 }
 
 .social-media {
@@ -122,37 +126,68 @@ footer {
     }
 }
 
-.sign-up-image {
-    background-image: url("../images/sign-up-test-3.jpg");
-  }
+body {
+    background-image: url("../images/sing-up-test-5.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* Override background image on mobile devices */
+@media (max-width: 767px) {
+    body {
+        background-image: none;
+        background-color: #333333; /* Replace with your desired background color */
+    }
+}
+
 
  .sign-up-button {
-    margin-top: 20px;
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: #BFC0C0;
  }
 
  #fname {
-    margin-top: 5px;
     border-radius: 20px;
-    border:1px solid #985463;
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    border:3px solid #BFC0C0;
     outline:none
  }
 
  #lname {
-    margin-top: 15px;
     border-radius: 20px;
-    border:1px solid #985463;
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    border:3px solid #BFC0C0;
     outline:none
  }
 
  #email {
-    margin-top: 15px;
     border-radius: 20px;
-    border:1px solid #985463;
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    border:3px solid #BFC0C0;
     outline:none
  }
 
  .sign-up-form h2 {
-    color: #333333;
+    color: #BFC0C0;
     margin-bottom: 30px;
     
+ }
+
+ .container {
+    display: flex;
  }
