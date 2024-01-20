@@ -8,12 +8,16 @@
     font-family: 'Roboto', sans-serif;
 }
 
-.about-section,
+
 .quotes-section {
   background-color: #333333;
   width: 100%;
   padding: 25px;
   margin: 0;
+}
+
+.about-section {
+    background-color: #333333;
 }
 
 .title-color {
@@ -86,10 +90,6 @@ footer {
 
 .quote-align {
     padding: inherit;
-}
-
-.about-align {
-    padding-top: 40px;
 }
 
 .navbar-brand {
