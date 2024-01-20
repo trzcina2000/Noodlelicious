@@ -126,7 +126,7 @@ footer {
     }
 }
 
-body {
+.sign-up-image {
     background-image: url("../images/sing-up-test-5.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -134,7 +134,7 @@ body {
 
 /* Override background image on mobile devices */
 @media (max-width: 767px) {
-    body {
+    .sign-up-image {
         background-image: none;
         background-color: #333333; /* Replace with your desired background color */
     }
