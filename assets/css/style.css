@@ -188,6 +188,10 @@ footer {
     
  }
 
+ .gallery-color {
+    background-color: #cbcccc;
+ }
+
  *,
 *::after,
 *::before {
@@ -195,7 +199,6 @@ footer {
   padding: 0;
   box-sizing: inherit; 
 }
-
 
 .container {
   width: 60%;
@@ -213,6 +216,7 @@ footer {
   grid-template-columns: repeat(8, 1fr);
   grid-template-rows: repeat(16, 5vw);
   grid-gap: 1rem; 
+  
 }
 
 .gallery__img {
