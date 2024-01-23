@@ -45,7 +45,7 @@
 }
 
 .quote-image {
-    margin: 20px
+    margin: 20px;
 }
 
 footer {
@@ -136,12 +136,12 @@ footer {
 @media (max-width: 767px) {
     .sign-up-image {
         background-image: none;
-        background-color: #333333; /* Replace with your desired background color */
+        background-color: #333333; 
     }
 }
 
 
- .sign-up-button {
+.sign-up-button {
     color: #fff;
     width: 100%;
     padding: 10px;
@@ -192,25 +192,17 @@ footer {
     background-color: #cbcccc;
  }
 
- *,
-*::after,
-*::before {
-  margin: 0;
-  padding: 0;
-  box-sizing: inherit; 
-}
-
 .container {
-  width: 60%;
-  margin: 2rem auto; 
-  box-sizing: border-box;
-  font-size: 62.5%; 
-  font-family: "Roboto", sans-serif;
-  color: #333;
-  font-weight: 300;
-  line-height: 1.6;
-}
-
+    width: 60%;
+    margin: 2rem auto; 
+    box-sizing: border-box;
+    font-size: 62.5%; 
+    font-family: "Roboto", sans-serif;
+    color: #333;
+    font-weight: 300;
+    line-height: 1.6;
+  }
+  
 .gallery {
   display: grid;
   grid-template-columns: repeat(8, 1fr);
