@@ -274,3 +274,29 @@ footer {
     grid-row-end: 16;
   }
   
+
+.noodle-recipes {
+    text-align: center;
+    padding: 80px;
+    background-color: #e5e5e5;
+    
+}
+
+.noodle-recipes h1 {
+    color: #333333;
+    font-size: 100px;
+    font-weight: bolder;
+    text-shadow: 2px 2px 4px #333;
+    font-family: 'Noto Sans Tirhuta', sans-serif;
+}
+
+.noodle-recipes h3 {
+    padding: 20px;
+    font-family: 'Noto Sans Tirhuta', sans-serif;
+}
+
+hr {
+    height: 4px; 
+    background-color: #333333; 
+    border: none; 
+}
