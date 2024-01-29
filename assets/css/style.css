@@ -343,11 +343,36 @@ hr {
 }
 
 .smaller-image {
-    width: 500px;
-    margin-right: 50px;
+    width: 100%;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .smaller-image-2 {
-    width: 500px;
-    margin-left: 70px;
+    width: 100%;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
 }
+
+@media (min-width: 768px) {
+    .smaller-image-2 {
+        float: left;
+        margin: 0;
+    }
+}
+
+@media (max-width: 767px) {
+    .col-md-12 {
+      width: 100%;
+    }
+    
+    .noodle-recipes {
+       padding: 10px;
+    }
+    
+    .text-center {
+       text-align: center;
+    }
+  }
