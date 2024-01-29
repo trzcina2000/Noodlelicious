@@ -32,20 +32,17 @@
     background-color: #BFC0C0;
 }
 
+.about-style {
+    color: white;
+    padding-bottom: 40px;
+}
+
 .about-color {
     color: white;
 }
 
 .about-noodles {
-    max-width: 500px; 
-    height: auto;
     padding-left: 20px;
-}
-
-@media (max-width: 576px) {
-    .about-noodles {
-        padding-left: 0;
-    }
 }
 
 .quotes-color {
