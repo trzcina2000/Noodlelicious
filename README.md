@@ -80,17 +80,19 @@ As a recipe website we want to go explore the pages for the recipes but we also 
 
 ![Palette](assets/images/Colour-Pallete.webp)
 
-   > #BFC0C0 - Background Colour for Home Page and the NavBar
-   > #CBCCCC - Background Colour for the Recipes and Gallery page.
-   > #985463 - Hover over colour for Nav links and Brand name.
-   > #333333 - For Brand name and Nav links
-   > #FFFFFF - Text Colour
+- #BFC0C0 - Background Colour for Home Page and the NavBar
+- #CBCCCC - Background Colour for the Recipes and Gallery page.
+- #985463 - Hover over colour for Nav links and Brand name.
+- #333333 - For Brand name and Nav links
+- #FFFFFF - Text Colour
 
 # Fonts used 
 
 Noto Sans Tirhuta - Used across the website.
 
 Roboto:ital - Used for Quotes in the Home Page, which gives the visial effect of a "quote".
+
+Sourced from [Google-Fonts](https://fonts.google.com/)
 
 # Images
 
@@ -99,5 +101,33 @@ Images in this project has been sourced from [Unsplash](https://unsplash.com) an
 ## Navbar hover effect 
 
 When hovering over the Nav Link with the mouse, you can see a subtle change of colour which is #985463. This colour is also the colour of the bowl of the hero image.
+
+# Technology
+
+- HTML to accomplish the structure of the project website.
+- CSS to style the project website.
+- Gitpod IDE to develop the website.
+- GitHub to host the source code and GitHub Pages to deploy and host the live site.
+- [Google-Fonts](https://fonts.google.com/) - For font styling
+- [Cloud-Convert](https://cloudconvert.com/jpg-to-webp) - to convert JPG images to WEBP.
+- [Color-Hex](https://www.color-hex.com/user/add-palette.php) - to create colour pallete used on the website.
+- [Balsamiq](https://balsamiq.com/wireframes/) to design wireframes.
+- Code Institute's Gitpod Template to generate the workspace for the project.
+- [Awwwards](https://www.awwwards.com/) - for website inspiration.
+- [freeCodCamp](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/) - for the Gallery page.
+
+# Testing
+
+- Google Chrome
+- Safari
+- Firefox
+- Microsoft Edge
+
+The website worked and looked well on all these browsers mentioned above. 
+All links were functional and routed to the correct place (whether that is the NavBar links or the Footer link for Social Media).
+The Navbar and Footer stays in the correct position. When opening the website on a smaller screen the "hamburger" appears in the NavBar for user to easily navigate though the website. 
+The Sign Up page form is working all correctly. The required notifications shows if one or more iputs are not present. Once we click on "Let's Much" a page opens up where it shows us that the data has been sent.
+When we hover over the NavBar links and the Brand name the colour changes to #985463.
+The website is fully responsive on all screen sizes.
 
 
