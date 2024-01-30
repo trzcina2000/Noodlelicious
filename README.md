@@ -1,7 +1,7 @@
 # Noodlelicious Responsive Website
-![Website Mock Up](assets/images/)
+![Website Mock Up](assets/images/Responsive-image.webp)
 # About
-This is a static website project about a new recipe website called [Noodlelicious](URL), this website is all about NOODLES. The purpose for this website is to bring people different types of recipes that can be for anyone and everyone. 
+This is a static website project about a new recipe website called [Noodlelicious](https://trzcina2000.github.io/Noodlelicious/), this website is all about NOODLES. The purpose for this website is to bring people different types of recipes that can be for anyone and everyone. 
 
 Core Purpose:
 - to bring people happiness through noodle dishes
@@ -11,7 +11,7 @@ Core Purpose:
 
 The website is built using HTML and CSS as a Milestone Project#1 for the Code Institute's Full Stack Developer course.
 
-[The live website is available here](URL)
+[The live website is available here](https://trzcina2000.github.io/Noodlelicious/)
 
 # Wireframes
 
@@ -171,5 +171,5 @@ This project was deployed to GitHub pages.
 8. A message that the website is ready to be deployed will appear, refresh the page and the link to the deployed site will be available in a green sub-section on the top of the page.
 9. Click on the link to go to the live deployed page.
 
-The live link can be found [here]().
+The live link can be found [here](https://trzcina2000.github.io/Noodlelicious/).
 
