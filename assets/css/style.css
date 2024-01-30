@@ -24,6 +24,10 @@
     margin-top: 70px;
 }
 
+.about-align {
+    padding-top: 50px;
+}
+
 .title-color {
     color: white;
 }
@@ -140,7 +144,7 @@ footer {
 }
 
 .sign-up-image {
-    background-image: url("../images/sing-up-test-5.jpeg");
+    background-image: url("../images/sign-up-image.webp");
     background-size: cover;
     background-repeat: no-repeat;
 }
