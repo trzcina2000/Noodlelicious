@@ -116,6 +116,23 @@ When hovering over the Nav Link with the mouse, you can see a subtle change of c
 - [Awwwards](https://www.awwwards.com/) - for website inspiration.
 - [freeCodCamp](https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/) - for the Gallery page.
 
+## Media
+
+- hero-image.webp from [Unsplash](https://unsplash.com).
+- about-us-image.webp from [Pexels](https://www.pexels.com).
+- recipe-image1.webp from [Pexels](https://www.pexels.com).
+- recipe-image2.webp from [Pexels](https://www.pexels.com).
+- 1-image.webp from [Pexels](https://www.pexels.com).
+- 2-image.webp from [Unsplash](https://unsplash.com).
+- 3-image.webp from [Unsplash](https://unsplash.com).
+- 4-image.webp from [Unsplash](https://unsplash.com).
+- 5-image.webp from [Pexels](https://www.pexels.com).
+- 6-image.webp from [Unsplash](https://unsplash.com).
+- 7-image.webp from [Pexels](https://www.pexels.com).
+- 8-image.webp from [Pexels](https://www.pexels.com).
+- sign-up-image.webp from [Unsplash](https://unsplash.com).
+- 
+
 # Testing
 
 - Google Chrome
@@ -130,4 +147,29 @@ The Sign Up page form is working all correctly. The required notifications shows
 When we hover over the NavBar links and the Brand name the colour changes to #985463.
 The website is fully responsive on all screen sizes.
 
+# Running the project locally
+
+1. Navigate to the GitHub Repository `trzcina2000/Noodlelicious`.
+2. Click the `Code` drop-down menu.
+3. Click the `HTTPS` sub-heading under the `Clone` heading.
+4. Copy the link.
+5. Open an IDE of your choice, (used here GitPod).
+6. Open a terminal in the directory of your choice, type `git clone` and paste the link.
+7. A clone of the repository will now be created on your machine.
+
+# Deploying the Project
+
+This project was deployed to GitHub pages.
+
+1. Log into GitHub.
+2. Select `Noodlelicious` from the list of repositories.
+3. Select `Settings` From the Repositories sub-headings.
+4. In the left side menu select `Pages` from `Code and automation` section.
+5. Under the `Branch` heading in the dropdown menu select `main`.
+6. A second drop-down menu should remain with the default value `/(root)`.
+7. Press `Save`.
+8. A message that the website is ready to be deployed will appear, refresh the page and the link to the deployed site will be available in a green sub-section on the top of the page.
+9. Click on the link to go to the live deployed page.
+
+The live link can be found [here]().
 
