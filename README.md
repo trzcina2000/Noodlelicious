@@ -1,39 +1,103 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Noodlelicious Responsive Website
+![Website Mock Up](assets/images/)
+# About
+This is a static website project about a new recipe website called [Noodlelicious](URL), this website is all about NOODLES. The purpose for this website is to bring people different types of recipes that can be for anyone and everyone. 
 
-Welcome,
+Core Purpose:
+- to bring people happiness through noodle dishes
+- provide recipes that can be for any type of dietary requirements
+- provide quick and easy recipes
+- bring people together through noodles
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+The website is built using HTML and CSS as a Milestone Project#1 for the Code Institute's Full Stack Developer course.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+[The live website is available here](URL)
 
-## Codeanywhere Reminders
+# Wireframes
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+![Wireframe (full size)](assets/images/wireframe.webp)
 
-`python3 -m http.server`
+# Structure
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## Home Page
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+- Allows users to read a little bit Noodlelicious.
+    #### User Goal:
+    >   - Find out what Noodlelicious is all about.
+    >   - Understand what the website is about.
+    >   - Make our visitors smile with some quirky quotes about noodles.
+    #### Website Goal:
+    >   - To show our visitors what we do and why we do it.
 
-`http_server`
+## Recipes
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+- Allows the user to see some potetntial dishes that they would like to try
+    #### User Goal:
+    >   - Check out two recipes to try out and see whether they are intrested in joing us for some more.
+    #### Website Goal:
+    >   - To show our visitors that noodles don't have to be basic to be quick.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## Gallery
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+- Allows the user to see hwo incredible noodle dishes look.
+    #### User Goal:
+    >   - Get a teaser as to what can be made quick and easy in their kitchen.
+    >   - To see whether some of the dishes is something that they are looking for.
+    #### Website Goal:
+    >   - To show our visitors that noodles don't have to be basic to be quick.
 
-To log into the Heroku toolbelt CLI:
+## Sign Up
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+- Allows the user to join for more recipes.
+    #### User Goal:
+    >   - Join our website for more recipes and get excited for new recipe releases.
+    #### Website Goal:
+    >   - Easy way to get our visitors to sign up for more of our delicious dishes.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+# UX Design
+## User stories
+### As a **first time user**
 
----
+- I want to freely explore the website and find what I am looking for.
+- I want to understand the main purpose for the website.
+- I want to try out the recipes provided as a teaser.
+- I want to be happy afer my first experiance with the website.
+- Be able to explore the website on different type of devices.
 
-Happy coding!
+### As a **returning** and a **frequent user**
+
+- I want to join the community for more delicious recipes.
+- I want to wait and see what other recipes will be added to the website.
+- I want to see new updates on the website.
+- I want to tell my friends about this recipe website so that they can join the community.
+- Be able to explore the website on different type of devices.
+
+# Design
+
+As a recipe website we want to go explore the pages for the recipes but we also want to make sure that the website itself is visibly pleasant. At the same time I do not want the webisite to be too overwhelming. Hence why teh website is more of a simple design with darker and lighter colours. 
+
+## Colours used
+
+![Palette](assets/images/Colour-Pallete.webp)
+
+   > #BFC0C0 - Background Colour for Home Page and the NavBar
+   > #CBCCCC - Background Colour for the Recipes and Gallery page.
+   > #985463 - Hover over colour for Nav links and Brand name.
+   > #333333 - For Brand name and Nav links
+   > #FFFFFF - Text Colour
+
+# Fonts used 
+
+Noto Sans Tirhuta - Used across the website.
+
+Roboto:ital - Used for Quotes in the Home Page, which gives the visial effect of a "quote".
+
+# Images
+
+Images in this project has been sourced from [Unsplash](https://unsplash.com) and [Pexels](https://www.pexels.com). These photos were selected as they fitted very well to the simple design of the website.
+
+## Navbar hover effect 
+
+When hovering over the Nav Link with the mouse, you can see a subtle change of colour which is #985463. This colour is also the colour of the bowl of the hero image.
+
+
